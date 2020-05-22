@@ -6,10 +6,7 @@ class Person
   def name
     @name
   end
-end 
 
-class Person
-  
   def job = (job)
     @job = job
   end 
